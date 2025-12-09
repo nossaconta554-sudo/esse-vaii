@@ -87,7 +87,7 @@
     "XABLAU-15d-F6PDBZ8E": {
       "active": true,
       "owner": "Pepeu",
-      "first_use": 1765242362071,
+      "first_use": null,
       "perm": false,
       "duration": "15d"
     },
@@ -159,7 +159,7 @@
       "duration": "10d"
     },
     "XABLAU-15d-71DJ91JX": {
-      "active": false,
+      "active": true,
       "owner": "Sem nome",
       "first_use": 1765241594237,
       "perm": false,
