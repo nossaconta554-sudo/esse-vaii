@@ -4,9 +4,9 @@
       "duration": "7piroka",
       "active": true,
       "owner": "",
-      "first_use" 1765246627161,
+      "first_use" null,
       "perm": false,
-      "device_limit": 1
+      "device_limit": null
     },
     }
   }
